@@ -73,7 +73,7 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
           onClick={handleSearch}
           className="button"
         >
-          <span class="span">🔎</span>
+          <span className="span">🔎</span>
         </Button>
       </Box>
       <Box sx={{ position: "relative", width: "100%", p: "20px" }}>
